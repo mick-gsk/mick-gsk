@@ -78,6 +78,6 @@ I build static analysis tools that detect **architectural drift**, **contract vi
 
 <div align="center">
 
-📧 [mick.gottsch@gmail.com](mailto:mick.gottsch@gmail.com) &nbsp;|&nbsp; 📍 Iserlohn, Germany
+📧 [mick.gottsch@gmail.com](mailto:mick.gottsch@gmail.com) &nbsp;|&nbsp; 📍 Germany
 
 </div>
