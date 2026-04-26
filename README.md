@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mick 👋
 
-<!--
-**mick-gsk/mick-gsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Solo Developer** from Iserlohn, Germany — building open-source tools that make AI-assisted coding safer and more reliable.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm building
+
+| Project | Description | Stars |
+|---|---|---|
+| [drift](https://github.com/mick-gsk/drift) | Detects architectural erosion & pattern fragmentation in AI-generated Python code | ⭐ 8 |
+| [contract-graph](https://github.com/mick-gsk/contract-graph) | AST-based cross-boundary contract drift detection between Python backends & TypeScript frontends | ⭐ 2 |
+| [agentbench-rw](https://github.com/mick-gsk/agentbench-rw) | Real-world evaluation framework for AI coding agents — measures safety, containment & autonomy | ⭐ 2 |
+| [drift-pre-commit](https://github.com/mick-gsk/drift-pre-commit) | pre-commit hooks for drift — catch architectural erosion before it reaches CI | ⭐ 1 |
+
+---
+
+## 🛠 Stack
+
+`Python` · `TypeScript` · `AST Analysis` · `Static Analysis` · `GitHub Actions` · `Claude` · `GitHub Copilot` · `MCP`
+
+---
+
+## 💡 Focus
+
+I'm focused on the intersection of **AI-assisted development** and **code quality** —  
+specifically: how do you keep software architecture intact when AI agents write most of the code?
+
+---
+
+## 📬 Contact
+
+📧 mick.gottsch@gmail.com
