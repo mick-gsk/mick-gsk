@@ -1,33 +1,83 @@
-# Hi, I'm Mick 👋
+<div align="center">
 
-**Solo Developer** from Iserlohn, Germany — building open-source tools that make AI-assisted coding safer and more reliable.
+<!-- Animated Header Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mick+%F0%9F%91%8B;Solo+Developer+%C2%B7+Open+Source;AI-Assisted+Code+Quality)](https://git.io/typing-svg)
 
----
+**Building open-source tools that keep software architecture intact — even when AI writes the code.**
 
-## 🔧 What I'm building
+[![GitHub followers](https://img.shields.io/github/followers/mick-gsk?label=Followers&style=social)](https://github.com/mick-gsk)
+[![Profile Views](https://komarev.com/ghpvc/?username=mick-gsk&color=6E40C9&style=flat)](https://github.com/mick-gsk)
 
-| Project | Description | Stars |
-|---|---|---|
-| [drift](https://github.com/mick-gsk/drift) | Detects architectural erosion & pattern fragmentation in AI-generated Python code | ⭐ 8 |
-| [contract-graph](https://github.com/mick-gsk/contract-graph) | AST-based cross-boundary contract drift detection between Python backends & TypeScript frontends | ⭐ 2 |
-| [agentbench-rw](https://github.com/mick-gsk/agentbench-rw) | Real-world evaluation framework for AI coding agents — measures safety, containment & autonomy | ⭐ 2 |
-| [drift-pre-commit](https://github.com/mick-gsk/drift-pre-commit) | pre-commit hooks for drift — catch architectural erosion before it reaches CI | ⭐ 1 |
+</div>
 
 ---
 
-## 🛠 Stack
+## 🔭 What I'm building
 
-`Python` · `TypeScript` · `AST Analysis` · `Static Analysis` · `GitHub Actions` · `Claude` · `GitHub Copilot` · `MCP`
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/mick-gsk/drift">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mick-gsk&repo=drift&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mick-gsk/contract-graph">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mick-gsk&repo=contract-graph&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mick-gsk/agentbench-rw">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mick-gsk&repo=agentbench-rw&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mick-gsk/drift-pre-commit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mick-gsk&repo=drift-pre-commit&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mick-gsk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mick-gsk&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
 
 ---
 
 ## 💡 Focus
 
-I'm focused on the intersection of **AI-assisted development** and **code quality** —  
-specifically: how do you keep software architecture intact when AI agents write most of the code?
+> How do you keep software architecture intact when AI agents write most of the code?
+
+I build static analysis tools that detect **architectural drift**, **contract violations**, and **pattern fragmentation** in AI-generated codebases — before they compound into technical debt.
 
 ---
 
-## 📬 Contact
+<div align="center">
 
-📧 mick.gottsch@gmail.com
+📧 [mick.gottsch@gmail.com](mailto:mick.gottsch@gmail.com) &nbsp;|&nbsp; 📍 Iserlohn, Germany
+
+</div>
